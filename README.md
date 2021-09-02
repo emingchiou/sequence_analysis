@@ -2,9 +2,9 @@ sequence_analysis
 
 # Specific pattern: 
 
--Aim: To extract protein sequence with specific pattern. 
+-Aim: To extract protein sequence with a specific pattern. 
 
--Ex: Is there protein sequences with G and E content over 40% within 100 consecutive amino acids in human? Where do they located at?  
+-Ex: Is there protein sequences with G and E content over 40% within 100 consecutive amino acids in human? Where do they locate at?  
 
 -Input: Species, target aa (1~3 kinds of aa), among how many consecutive aa, percentage threshold.
 
