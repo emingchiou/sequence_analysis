@@ -16,4 +16,4 @@ sequence_analysis
 
 -Input: DNA sequence ID/ sequence, User's E-mail,
 
--Output: CG contents, transcribed mRNA, encoded protein, forward/reverse primers. Shown in the window or send to user's email.
+-Output: CG contents, transcribed mRNA, encoded protein, forward/reverse primers. Shown in the window.
