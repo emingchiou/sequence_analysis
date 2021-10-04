@@ -2,7 +2,7 @@ sequence_analysis
 
 # Specific pattern: 
 
--Aim: To extract protein sequence with a specific pattern. 
+-Aim: To extract protein sequences with a high percentage of certain amino acids. 
 
 -Ex: Is there protein sequences with G and E content over 40% within 100 consecutive amino acids in human? Where do they locate at?  
 
