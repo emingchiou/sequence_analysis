@@ -12,7 +12,7 @@ sequence_analysis
 
 # Basic information:
 
--Aim: Easy-to-use tool for basic information of DNA sequences.
+-Aim: To build an easy-to-use tool for basic information of DNA sequences.
 
 -Input: DNA sequence ID/ sequence, User's E-mail,
 
