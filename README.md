@@ -8,7 +8,7 @@ sequence_analysis
 
 -Input: Species, among how many consecutive aa, target aa (1~3 kinds of aa), sum of the aa or respective percentage, percentage threshold. 
 
--Output: The extracted sequences, in which protein sequence, at which position, percentage. Files in FASTA and csv format.
+-Output: The extracted sequences, protein ID, position of the interval, the percentage. Files were in FASTA and csv format.
 
 # Basic information:
 
