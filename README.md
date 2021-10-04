@@ -6,7 +6,7 @@ sequence_analysis
 
 -Ex: Is there protein sequences with G and E content over 40% within 100 consecutive amino acids in human? Where do they locate at?  
 
--Input: Species, target aa (1~3 kinds of aa), among how many consecutive aa, percentage threshold.
+-Input: Species, among how many consecutive aa, target aa (1~3 kinds of aa), sum of the aa or respective percentage, percentage threshold. 
 
 -Output: The extracted sequences, in which protein sequence, at which position, percentage. Files in FASTA and csv format.
 
