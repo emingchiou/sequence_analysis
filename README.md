@@ -10,6 +10,8 @@ sequence_analysis
 
 -Output: The extracted sequences, protein ID, position of the interval, the percentage. Files were in FASTA and csv format.
 
+* You need to download the fasta files first
+
 # Basic information:
 
 -Aim: To build an easy-to-use tool for basic information of DNA sequences.
